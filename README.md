@@ -22,7 +22,7 @@ Flutter app for calorie programming, body mass index calculation, and setting qu
 ![G3 - BMI Calculator](g3.png)  
 *G3: Body Mass Index (BMI) calculation screen.*
 
-![G3.1 - Food/Calorie Tracker](g3-1.png)  
+![G3.1 - Food/Calorie Tracker](g3.1.png)  
 *G3.1: Screen to add food and calculate calories. Navigate to weekly food list page + area to write sweet notes.*
 
 ### 📦 Tech Stack
